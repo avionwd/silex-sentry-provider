@@ -1,14 +1,18 @@
 {
-    "name": "moriony/silex-sentry-provider",
+    "name": "avionwd/silex-sentry-provider",
     "type": "library",
     "description":  "Sentry service provider for the Silex framwork.",
     "keywords": ["sentry", "raven-php", "silex"],
-    "homepage": "https://github.com/moriony/silex-sentry-provider",
+    "homepage": "https://github.com/avionwd/silex-sentry-provider",
     "license":  "MIT",
     "authors": [
         {
             "name": "Vitaliy Chesnokov",
             "email": "demateus@gmail.com"
+        },
+        {
+            "name": "Oleksandr Muzychenko",
+            "email": "avionwd@gmail.com"
         }
     ],
     "require": {
